@@ -29,5 +29,5 @@ npm run preview
 
 `published`を`true`にした上で`published_at` (`YYYY-MM-DD` or `YYYY-MM-DD hh:mm`) を指定する．
 
-> ![CAUTION]
+> [!CAUTION]
 > 公開日時の指定は一度のみで**変更不可**
